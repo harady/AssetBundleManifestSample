@@ -2,5 +2,8 @@ ManifestFileVersion: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: test.unity3d
+      Name: test.hd
+      Dependencies: {}
+    Info_1:
+      Name: test.sd
       Dependencies: {}
