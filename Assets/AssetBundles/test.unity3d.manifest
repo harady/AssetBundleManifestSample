@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3489189967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ab2d8035fbe61845f75b89a138f120c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Images/monster_icon_3.png
+- Assets/Images/monster_icon_4.png
+- Assets/Images/monster_icon_2.png
+- Assets/Images/monster_icon_1.png
+- Assets/Images/monster_icon_5.png
+Dependencies: []
