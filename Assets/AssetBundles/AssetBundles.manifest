@@ -2,8 +2,8 @@ ManifestFileVersion: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: test.hd
+      Name: test.sd
       Dependencies: {}
     Info_1:
-      Name: test.sd
+      Name: test.hd
       Dependencies: {}
