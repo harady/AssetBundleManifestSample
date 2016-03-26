@@ -17,6 +17,6 @@ public class NewEditorTest {
 
         //Assert
         //The object has a new name
-        Assert.AreEqual(newGameObjectName, gameObject.name);
+		Assert.AreEqual(newGameObjectName, gameObject.name);
     }
 }

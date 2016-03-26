@@ -7,9 +7,9 @@ public class AssetBundleSample : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		AssetBundleManifest manifest;
-		manifest.GetAssetBundleHash ("assetBundleName");
-		WWW.LoadFromCacheOrDownload ("url", new Hash128 ());
+//		AssetBundleManifest manifest;
+//		manifest.GetAssetBundleHash ("assetBundleName");
+//		WWW.LoadFromCacheOrDownload ("url", new Hash128 ());
 	}
 	
 	// Update is called once per frame
