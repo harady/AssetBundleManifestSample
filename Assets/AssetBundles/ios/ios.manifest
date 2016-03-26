@@ -1,0 +1,9 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test.sd
+      Dependencies: {}
+    Info_1:
+      Name: test.hd
+      Dependencies: {}
