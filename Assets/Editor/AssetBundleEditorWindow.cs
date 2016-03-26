@@ -26,7 +26,7 @@ public class AssetBundleEditorWindow : EditorWindow
 		EditorGUILayout.PrefixLabel ("アセットバンドルビルド");
 		if (GUILayout.Button ("アセットバンドルビルド")) {
 			Debug.Log ("アセットバンドルビルド");
-			BuildPipeline.BuildAssetBundles ("Assets/AssetBundles");
+			AssetBundleBuilder.BuildAssetBundles ();
 		}
 	}
 	#endregion
