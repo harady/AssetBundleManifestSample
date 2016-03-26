@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3666854800
+CRC: 1804933474
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9f63dbd0e436a2376edd498277dd8fec
+    Hash: e4234636860403dff3a826eba276244c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9dea23ffc7e96552740e12d1ee5309d8
@@ -14,9 +14,10 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Images/hd/monster_icon_3.png
-- Assets/Images/hd/monster_icon_4.png
-- Assets/Images/hd/monster_icon_2.png
-- Assets/Images/hd/monster_icon_1.png
-- Assets/Images/hd/monster_icon_5.png
+- Assets/AssetBundleSources/test/hd/monster_icon_3.png
+- Assets/AssetBundleSources/test/hd/monster_icon_4.png
+- Assets/AssetBundleSources/test/hd/monster_icon_2.png
+- Assets/AssetBundleSources/test/hd/monster_icon_6.png
+- Assets/AssetBundleSources/test/hd/monster_icon_1.png
+- Assets/AssetBundleSources/test/hd/monster_icon_5.png
 Dependencies: []
